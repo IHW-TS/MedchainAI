@@ -1,0 +1,4 @@
+age,bmi,resting_hr,systolic_bp,weekly_minutes_exercise,smoker,family_history,sex
+38,23.5,62,118,210,0,0,0
+55,29.2,72,135,90,1,1,1
+44,26.1,70,122,150,0,1,1
